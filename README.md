@@ -1,6 +1,6 @@
 # Maximo Meridio Web - versión mobile
 
-Web estática mobile friendly para GitHub Pages.
+Web estática mobile friendly para GitHub Pages, sin texto de fases.
 
 ## Subir cambios
 
