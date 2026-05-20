@@ -12,6 +12,6 @@ Reemplazar en GitHub:
 
 ## Pendientes
 
-- Cambiar WhatsApp: buscar `5492664000000`.
-- Cambiar email: buscar `contacto@maximomeridio.com`.
+- Cambiar WhatsApp: buscar `5492665048089`.
+- Cambiar email: buscar `muymaximomeridio@gmail.com`.
 - Agregar productos reales.
